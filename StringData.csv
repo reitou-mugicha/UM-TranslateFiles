@@ -1,8 +1,9 @@
-# Language
+Id,0,1,2,3
 Translator,Japanese: DekoKiyo,English: DekoKiyo,SChinese: ,Indonesia:
 
 # Settings
-Lannguage,Japanese,English,SChinese,Indonesia
+Language,言語:{0},Lang:{0},,
+AllLanguage,日本語,English,简体中文,Indonesia
 ModOptionsText,UMの設定,UM Options,极限职业选项,
 VanillaOptionsText,AmongUsの設定,AmongUs Options,原版选项,
 GeneralSettings,UMの設定,UM Settings,极限职业设置,
@@ -61,7 +62,8 @@ CreditsTitle,Modクレジット,Mod Credits,鸣谢,
 # In Game
 PlatformTitle,===プレイヤー名：機種名===,===PlayerName : Platform===,===玩家名称：游戏设备===,
 MeetingStatus,<size=100%>クルー {0} は\n<color=red>残り{1}回、全体では{2}回</color>\n緊急会議を開催できる</size>,"<size=100%>Crewmate {0} has\n<color=red>{1} times left, {2} times overall</color>\ncan hold emergency meetings.</size>",<size=100%>{0} 还能召开\n<color=red>{1}次会议 .所有人还能召开 {2} 次</color>\n紧急会议.</size>,
-JesterMeetingButton,ジェスターは緊急会議を開けない…,Jester can't call meetings...,小丑不能召开紧急会议,RestrictOutOfTime,時間切れ,Out Of Time,超时,
+JesterMeetingButton,ジェスターは緊急会議を開けない…,Jester can't call meetings...,小丑不能召开紧急会议,
+RestrictOutOfTime,時間切れ,Out Of Time,超时,
 TimeRemaining,残り時間: {0},Remaining: {0},剩余时间:{0},
 ButtonBlocked,使用不可,BLOCKED,不能使用,
 
