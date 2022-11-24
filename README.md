@@ -11,4 +11,3 @@ Below is a list of translation keys.
 ## Translation List
 - "\n" means newline. It is also used for line breaks in actual translation.
 - "{0}" inserts other characters. **Please Don't delete.**
-- There are very long ones. They are [here](LongTranslateList.md).
