@@ -3,12 +3,10 @@ A repository of translation files for UltimateMods.
 Below is a list of translation keys.
 
 ## How to make Translation File?
-1. Write translate data in [TranslateFile](https://github.com/Dekokiyo/UltimateMods/blob/main/Translate.xlsx) file.
-2. Download [Converter](https://github.com/Dekokiyo/UltimateMods/blob/main/Dev/Converter.py).
-3. Set the "Translate.xlsx" and "Converter.py" in the same directory and start
-the "Converter.py".
-4. Open Converter.py.
-5. A file will be generated, so please make PullRequest and attach it.
+1. Create a [fork](https://github.com/Dekokiyo/UM-TranslateFiles/fork).
+2. Write translate data in your "StringData.csv" file.
+3. Make a [pull request](https://github.com/Dekokiyo/UM-TranslateFiles/compare) yourself.
+4. I'll check and if no problem, I apply your file.
 
 ## Translation List
 - "\n" means newline. It is also used for line breaks in actual translation.
