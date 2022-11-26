@@ -181,6 +181,7 @@ OldAirShipAdmin,旧AirShipアドミン仕様,Old AirShip Admin System,使用旧�
 EnableRecordsAdmin,アーカイブのアドミン有効化,Enable Archive Admin,启用位于档案室的地图,
 EnableCockpitAdmin,コックピットのアドミン有効化,Enable Cockpit Admin,启用位于驾驶舱的地图,
 AirShipReactorDuration,AirShip昇降機制限時間,AirShip Reactor Duration,飞艇地图调整航线破坏限制时间,
+EnableCustomTasks,カスタムタスクを有効化,Enable Custom Tasks,,
 
 # Custom Roles Options
 RoleNumAssigned,人数,Role Counts,可存在数量,
